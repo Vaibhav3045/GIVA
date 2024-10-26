@@ -1,6 +1,6 @@
 # GIVA
 
-[URL]: (https://cozy-pixie-f782a1.netlify.app/)
+# [URL]: (https://cozy-pixie-f782a1.netlify.app/)
 
 This project is a Product Management System designed to showcase the full-stack development process. It provides a way to manage a list of products, allowing users to view, add, edit, and delete product entries. I built this system to demonstrate CRUD (Create, Read, Update, Delete) functionality using a combination of Node.js, Express, PostgreSQL, and React.
 
