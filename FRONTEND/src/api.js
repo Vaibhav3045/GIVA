@@ -2,7 +2,7 @@
 
 // fetch product
 
-const backend = 'https://fullstackdevelopment-giva.onrender.com/';
+const backend = 'localhost:5000';
 
 export const fetchProducts = async () => {
     const response = await fetch(`${backend}/api/products`);
