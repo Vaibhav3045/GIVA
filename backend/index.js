@@ -13,7 +13,7 @@ var corsoption = {
   app.use(express.json())
 
 const pool = new Pool({
-    connectionString: 'postgresql://givapro:aVKVYnEdtMXVTvBdmkSzUxF7qcHUYeHB@dpg-csec5t68ii6s7390neg0-a.singapore-postgres.render.com/product_ucgh',  
+    connectionString: 'postgresql://product_b13u_user:fzfoWZavttYNji9wWcUR03Zw2YznfPqB@dpg-ct624q88fa8c73c3qe7g-a/product_b13u',  
     ssl: {
       rejectUnauthorized: false, 
     },
